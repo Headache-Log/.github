@@ -13,9 +13,9 @@ log and review headache or migraine episodes over time.
 - 📦 Clean architecture, reproducible setup
 
 ## Repositories
-- headache-log-api — REST API (Django, DRF)
-- headache-log-bot — Telegram bot
-- headache-log-k8s — Kubernetes manifests
+- [headache-log-api](https://github.com/Headache-Log/headache-log-api) — REST API (Django, DRF)
+- [headache-log-bot](https://github.com/Headache-Log/headache-log-bot) — Telegram bot
+- [headache-log-k8s](https://github.com/Headache-Log/headache-log-k8s) — Kubernetes manifests
 
 ## Status
 🚧 Work in progress (HomeLab project)
